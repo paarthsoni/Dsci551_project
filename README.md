@@ -53,8 +53,8 @@ MONGO_DB=your_mongodb_database_name
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/paarthsoni/Dsci551_repository.git
-cd Dsci551_repository
+git clone https://github.com/paarthsoni/Dsci551_project.git
+cd Dsci551_project
 ```
 
 ### 2. Create & activate virtual environment
